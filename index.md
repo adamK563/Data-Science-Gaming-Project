@@ -1,7 +1,5 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/adamK563/Data-Science-Gaming-Project/edit/gh-pages/index.md)
-
 Hi,
 Please run in this order:
 
@@ -21,4 +19,4 @@ Please run in this order:
 4.[ML](https://github.com/adamK563/Data-Science-Gaming-Project/blob/main/ML.ipynb)
 
 
-Thank you for checking out my project! :)
+Thank you! :)
